@@ -1,3 +1,4 @@
+```markdown
 # Bateria Interativa
 
 Este projeto é uma bateria interativa desenvolvida como parte de um estudo sobre JavaScript. A parte de HTML e CSS foi desenvolvida pela equipe da B7Web, e a lógica de interação foi implementada por mim.
@@ -5,6 +6,8 @@ Este projeto é uma bateria interativa desenvolvida como parte de um estudo sobr
 ## Descrição
 
 O projeto simula uma bateria com teclas do teclado e um campo para criar composições musicais. O usuário pode pressionar as teclas Q, W, E, A, S, D, Z, X e C para tocar sons correspondentes, e também pode criar uma sequência de sons a partir de um campo de entrada e um botão de reprodução.
+
+Você pode visualizar o projeto [neste link](https://arthurdevleal.github.io/interactive-drum-kit/).
 
 ## Funcionalidades
 
@@ -14,13 +17,17 @@ O projeto simula uma bateria com teclas do teclado e um campo para criar composi
 ## Instalação
 
 1. **Clone o repositório**
-bash
-   git clone <https://github.com/ArthurDevLeal/interactive-drum-kit.git>
-   
+
+   ```bash
+   git clone https://github.com/ArthurDevLeal/interactive-drum-kit.git
+   ```
+
 2. **Navegue para o diretório do projeto**
-bash
+
+   ```bash
    cd interactive-drum-kit
-   
+   ```
+
 3. **Abra o arquivo `index.html` em seu navegador para visualizar o projeto.**
 
    Não há necessidade de instalação adicional, já que todos os arquivos necessários estão incluídos.
@@ -56,4 +63,4 @@ Este projeto é licenciado sob a licença [MIT](LICENSE).
 Se você tiver alguma dúvida ou sugestão, sinta-se à vontade para me contatar.
 
 - **Email**: arthurDevLeal@gmail.com
-
+```
