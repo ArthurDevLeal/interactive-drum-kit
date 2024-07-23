@@ -6,7 +6,7 @@ Este projeto é uma bateria interativa desenvolvida como parte de um estudo sobr
 
 O projeto simula uma bateria com teclas do teclado e um campo para criar composições musicais. O usuário pode pressionar as teclas Q, W, E, A, S, D, Z, X e C para tocar sons correspondentes, e também pode criar uma sequência de sons a partir de um campo de entrada e um botão de reprodução.
 
-Você pode visualizar o projeto [neste link](https://arthurdevleal.github.io/interactive-drum-kit/).
+Você pode visualizar o projeto <a href="https://arthurdevleal.github.io/interactive-drum-kit/" target="_blank">neste link</a>.
 
 ## Funcionalidades
 
