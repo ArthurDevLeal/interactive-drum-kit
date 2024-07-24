@@ -15,6 +15,7 @@ document.addEventListener("keyup", (event) => {
         if (dataKey === `key${event.key.toLowerCase()}`) {
             changeColor(btn);
             // Chama uma função para alterar a cor do botão pressionado
+            sounds[i].currentTime = 0
             sounds[i].play();
         }
     });
@@ -48,6 +49,7 @@ function makeComposition() {
         if (letters.includes(char)) {
             setTimeout(() => {
                 let index = letters.indexOf(char);
+                sounds[index].currentTime = 0
                 sounds[index].play(); // Reproduz o som correspondente à letra
             }, wait);
             wait += 200; // Incrementa o tempo de espera para o próximo som
